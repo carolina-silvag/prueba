@@ -1,0 +1,67 @@
+img {
+  width: 100%;
+}
+
+.fondo {
+
+}
+
+.fondo2 {
+  background-color: #fff;
+  border: 1px solid #000;
+  border-radius: 8px; 
+}
+.navbar-brand {
+  width: 12%;
+  padding: 1px 0 0 15px;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 100%;
+}
+
+.pantallaDerecha {
+  padding: 0;
+}
+
+.pantallaIzquerda {
+  padding: 0;
+}
+
+.logo {
+  border-radius: 50%;
+  width: 80%;
+}
+
+.contact {
+  border: 1px solid red;
+}
+.logo2 {
+  border-radius: 50%;
+  
+}
+
+
+.contenedorDerecho {
+  background-image: url(../images/chat-panel-bg.png); 
+  outline: 1px solid green;
+  height: 60vh; 
+  /*position: relative;*/
+}
+
+
+.abajo {
+  position: absolute;
+  bottom: 0;
+}
+
+textarea{
+  width: 100%;
+  border-style: none;
+  overflow: hidden;
+}
+textarea:focus{
+    outline: none; 
+}
+
